@@ -6,7 +6,7 @@
 }*/
 body {
     font-family: Arial, sans-serif;
-    background-image: url('Background.jpg'); /* Ganti dengan nama file gambar */
+    background-image: url('Image/Background.jpg'); /* Ganti dengan nama file gambar */
     background-size: cover;  /* Menyesuaikan gambar dengan layar */
     background-position: center; /* Menyesuaikan posisi gambar */
     background-attachment: fixed; /* Membuat gambar tetap di tempat saat di-scroll */
